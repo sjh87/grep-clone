@@ -47,3 +47,9 @@ _deps
 
 build/
 vcpkg_installed
+
+#.vscode and its contents
+.vscode
+
+# executable for debugging
+src/Server
